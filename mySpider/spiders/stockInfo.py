@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#请注意使用
 import scrapy,re,os
 import pkgutil
 from mySpider.items import mySpiderItem
