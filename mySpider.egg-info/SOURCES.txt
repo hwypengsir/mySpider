@@ -1,0 +1,15 @@
+setup.py
+mySpider/__init__.py
+mySpider/items.py
+mySpider/middlewares.py
+mySpider/pipelines.py
+mySpider/settings.py
+mySpider.egg-info/PKG-INFO
+mySpider.egg-info/SOURCES.txt
+mySpider.egg-info/dependency_links.txt
+mySpider.egg-info/entry_points.txt
+mySpider.egg-info/not-zip-safe
+mySpider.egg-info/top_level.txt
+mySpider/resources/codes.txt
+mySpider/spiders/__init__.py
+mySpider/spiders/stockInfo.py
